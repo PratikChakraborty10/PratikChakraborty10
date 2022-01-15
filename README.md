@@ -1,4 +1,4 @@
-[![MasterHead](https://sthint.com/wp-content/uploads/2021/05/Android_NewForDevelopers_1024x512_updated-1-1.png)](https://pratikchakraborty.in)
+[![MasterHead](https://i.ibb.co/BrDRWm7/Pratik-Chakraborty.png)](https://pratikchakraborty.in)
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">Nice meeting you!!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
