@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Well! Now, you have my email id and all the links to my social media handles.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kpJwjFnMLok7r9D2z6pnIZ2I8uIOOvdt/view?usp=sharing](https://drive.google.com/file/d/1kpJwjFnMLok7r9D2z6pnIZ2I8uIOOvdt/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1z2ScI23N8-iDTP-DtqzC7YOWGf9LvtjJ/view?usp=sharing](https://drive.google.com/file/d/1z2ScI23N8-iDTP-DtqzC7YOWGf9LvtjJ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny**
 
