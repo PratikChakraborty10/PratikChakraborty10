@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikchakraborty10&show_icons=true&locale=en" alt="pratikchakraborty10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikchakraborty10&" alt="pratikchakraborty10" /></p>
+
+<a href="https://app.daily.dev/pratikchakraborty"><img src="https://api.daily.dev/devcards/v2/QmzTwHo7sYzfepRblg31j.png?type=wide&r=2cz" width="652" alt="Pratik Chakraborty's Dev Card"/></a>
