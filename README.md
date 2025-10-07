@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,supabase,react,typescript,nodejs,aws,figma,git,tailwind,vscode,cursorai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,supabase,stripe,react,typescript,nodejs,aws,figma,git,tailwind,vscode&theme=dark" />
 </p>
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikChakraborty10&theme=tokyo-night" /> </p>
