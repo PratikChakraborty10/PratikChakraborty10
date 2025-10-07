@@ -30,8 +30,34 @@
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikChakraborty10&theme=tokyo-night" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PratikChakraborty10&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikchakraborty&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikChakraborty10&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=PratikChakraborty10&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikchakraborty&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikChakraborty10&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pratikchakraborty&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pratikchakraborty&theme=tokyonight&hide_border=true" /> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratikchak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/pratik10909" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://pratikchakraborty.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/pratikchak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/pratik10909" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="https://pratikchakraborty.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=vercel&logoColor=white"/></a> </p>
