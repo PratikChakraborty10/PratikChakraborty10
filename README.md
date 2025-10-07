@@ -44,7 +44,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikChakraborty10&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pratikchakraborty&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@pratikchakraborty&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
