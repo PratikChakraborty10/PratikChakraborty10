@@ -30,6 +30,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PratikChakraborty10&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikchakraborty&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikchakraborty&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-thena&theme=tokyo-night" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikChakrabort10&theme=tokyo-night" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pratikchakraborty&theme=tokyonight&hide_border=true" /> </p>
