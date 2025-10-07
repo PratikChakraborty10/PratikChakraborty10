@@ -1,5 +1,5 @@
 <!-- ⚡ Cult-Coded README ⚡ -->
-<h1 align="center">yo, i'm pratik ⚡</h1>
+<h1 align="center">hey, i'm pratik ⚡</h1>
 <h3 align="center">building pixels into purpose — one commit at a time 🧠</h3>
 
 <p align="center">
@@ -26,7 +26,7 @@
 ```
 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,aws,python,figma,git,tailwind,vscode&theme=dark" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,nestjs,mongodb,react,typescript,nodejs,aws,python,figma,git,tailwind,vscode&theme=dark" /> </p>
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikChakraborty10&theme=tokyo-night" /> </p>
 
