@@ -33,3 +33,5 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PratikChakraborty10&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikchakraborty&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikchakraborty&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pratikchakraborty&theme=tokyonight&hide_border=true" /> </p>
+
+<p align="center"> <a href="https://www.linkedin.com/in/pratikchakraborty" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/pratik_coder" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="https://pratikchakraborty.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=vercel&logoColor=white"/></a> </p>
