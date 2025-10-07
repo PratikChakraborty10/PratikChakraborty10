@@ -10,7 +10,7 @@
 
 ### 💻 about me
 > 👨‍💻 software engineer | frontend dev | map-nerd  
-> 🚀 blending **Next.js + TypeScript + maps + vibes**  
+> 🚀 blending **Next.js + Nest.js 🪺 + TypeScript + maps + vibes**  
 > 🧭 currently building AI-driven travel & geospatial experiences  
 > 🎧 usually coding with lo-fi beats and existential thoughts  
 
