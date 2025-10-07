@@ -27,8 +27,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,typescript,nodejs,aws,python,figma,git,tailwind,vscode,postgres,supabase&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anthropic/anthropic-original.svg" width="48" height="48" alt="Claude AI" style="margin: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,supabasereact,typescript,nodejs,aws,figma,git,tailwind,vscode,cursor&theme=dark" />
 </p>
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikChakraborty10&theme=tokyo-night" /> </p>
