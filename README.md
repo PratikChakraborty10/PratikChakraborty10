@@ -23,6 +23,7 @@
 👤 pratik chakraborty
 🌐 silchar, india
 💬 tech cult: "code. ship. repeat."
+```
 
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,aws,python,figma,git,tailwind,vscode&theme=dark" /> </p>
